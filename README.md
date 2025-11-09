@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Thysma23/Thysma23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌟 Welcome to Mathys Meunier's Profile 🌟
 
-Here are some ideas to get you started:
+<p><em>Full-stack developer working alternately between Epitech Nantes and Société Générale Securities Services</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Status-Not_available_for_collaboration-red" alt="Status" />
+
+</div>
+
+<hr>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4">
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Deno-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1">
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db">
+
+### 📱 Mobile
+
+<img src="https://img.shields.io/badge/-React Native-05122A?style=for-the-badge&color=3CB371"> <img src="https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&color=3CB371">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500">
+
+</div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/Thysma23"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/mathys-meunier/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
+
+</div>
+
+<div align="center">
+
+<!-- ⚠️ Important: Replace 'Thysma23' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=Thysma23&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/Thysma23?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+</div>
